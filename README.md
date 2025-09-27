@@ -41,13 +41,6 @@
 
 ---
 
-## 🎨 Portfolio Previews  
-
-<p align="center">
-  <img src="./images/wp-sample.png" width="400" alt="WordPress Preview" />
-  <img src="./images/devops-sample.png" width="400" alt="DevOps Dashboard" />
-</p>  
-
 ---
 
 ## 📊 GitHub Insights  
@@ -66,13 +59,13 @@
 ## 📫 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/soudharm-lende-24baaa221">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://your-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:soudharmrlende@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

@@ -44,10 +44,6 @@ I am a passionate WordPress Developer with hands-on experience in:
 - Custom layouts and UI design
 - Smooth navigation and user-friendly interface
 
-🔗 **Project Links:**
-- Live Site: https://your-business-site.com  
-- GitHub Repo: https://github.com/yourusername/business-website  
-
 ---
 
 ### 3️⃣ Landing Pages Collection

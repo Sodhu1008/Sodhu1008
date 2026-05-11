@@ -60,8 +60,8 @@ I am a passionate WordPress Developer with hands-on experience in:
 - Focused on UI/UX and performance
 
 🔗 **Project Links:**
-- Live Pages: https://your-landing-pages.com  
-- GitHub Repo: https://github.com/yourusername/landing-pages  
+- https://ssdjjpsangha.org.in/  
+- https://bce.org.in/
 
 ---
 
@@ -87,16 +87,17 @@ I am a passionate WordPress Developer with hands-on experience in:
 
 ## 📸 Screenshots
 
-_Bahubali Group of Institutions – Run by SSDJJP Sangha R  (1).png
+![Screenshot](https://github.com/Sodhu1008/Sodhu1008/blob/54f7a10a94e81974e94f2dd1d3a2d4c5e78abc5a/Bahubali%20Group%20of%20Institutions%20%E2%80%93%20Run%20by%20SSDJJP%20Sangha%20R%20%20(1).png)
+![Screenshot](https://github.com/Sodhu1008/Sodhu1008/blob/54f7a10a94e81974e94f2dd1d3a2d4c5e78abc5a/Bahubali%20College%20of%20Engineering%20%E2%80%93%20The%20Institution%20Bahubali%20College%20of%20Engineering%20%20BCE%20.png)
 _
 
 ---
 
 ## 📬 Contact
 
-- Email: your-email@example.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Portfolio: https://yourportfolio.com  
+- Email: soudharmrlende@gmail.com 
+- LinkedIn: www.linkedin.com/in/soudharm-raju-lende-24baaa221
+
 
 ---
 

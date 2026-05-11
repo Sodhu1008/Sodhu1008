@@ -87,7 +87,8 @@ I am a passionate WordPress Developer with hands-on experience in:
 
 ## 📸 Screenshots
 
-_Add screenshots here (use /images folder in repo)_
+_Bahubali Group of Institutions – Run by SSDJJP Sangha R  (1).png
+_
 
 ---
 

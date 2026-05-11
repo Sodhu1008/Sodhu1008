@@ -1,76 +1,106 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://camo.githubusercontent.com/f401c2aa72bf748bd1aae72b2768d9ff07dc8ec2131780f36fa689bdd6f2c5fc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30662f32352f65342f30663235653436363863316337373430623565643431383335333339643637662e676966" alt="Banner" height="200" />
-</p>
+# 🌐 WordPress Developer Portfolio
 
-# 👋 Hi, I'm Soudharm 
-💻 **DevOps Engineer | WordPress Designer**  
+Welcome to my WordPress development portfolio!  
+This repository showcases my experience in building, customizing, and managing WordPress websites using modern tools and best practices.
 
 ---
 
-## ✨ About Me  
-🌟 I bridge the gap between **scalable DevOps engineering** and **creative WordPress development**.  
-⚡ I enjoy automating deployments, building CI/CD pipelines, and designing beautiful, user-friendly websites.  
-💡 Always exploring new tech in **cloud, automation, and web design**.  
+## 👨‍💻 About Me
+
+I am a passionate WordPress Developer with hands-on experience in:
+
+- Website development using WordPress
+- Customizing themes using Elementor
+- Plugin configuration and management
+- Responsive design and UI improvements
+- Client requirement analysis and implementation
 
 ---
 
-## 🛠️ Tech Toolbox  
+## 🚀 Skills & Technologies
 
-<p align="center">
-  
-<!-- DevOps -->
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,bash,git" /><br/>
-
-<!-- Web -->
-<img src="https://skillicons.dev/icons?i=wordpress,php,mysql,html,css" />
-
-</p>
+- WordPress CMS
+- Elementor Page Builder
+- HTML5, CSS3, Basic JavaScript
+- PHP (Basics)
+- MySQL (Basics)
+- Website Optimization
+- SEO Basics
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Projects
 
-### 🔹 DevOps Projects  
-- 🚀 [**AWS Infrastructure as Code**](./projects/aws-infra/) – Terraform + AWS Cloud setup  
-- ⚙️ [**CI/CD with Jenkins & Docker**](./projects/cicd-pipeline/) – Automated container pipeline  
+### 1️⃣ School Management Website
+- Developed a fully responsive school website
+- Designed pages for admissions, courses, and contact
+- Integrated inquiry forms
+- Mobile optimized design
 
-### 🔹 WordPress Projects  
-- 🛒 [**Custom E-Commerce WordPress**](./projects/wordpress-ecommerce/)  
-- 🔌 [**Custom Plugin Development**](./projects/wp-plugin/)  
-
----
-
----
-
-## 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sodhu1008&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sodhu1008&layout=compact&theme=tokyonight" height="150" />
-</p>  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&border_radius=8" height="150" />
-</p>  
+🔗 **Project Links:**
+- Live Site: https://your-school-website.com  
+- GitHub Repo: https://github.com/yourusername/school-website  
+- Admin Panel (if demo): https://your-school-website.com/wp-admin  
 
 ---
 
-## 📫 Connect with Me  
+### 2️⃣ Business Website
+- Created a modern business website using Elementor
+- Custom layouts and UI design
+- Smooth navigation and user-friendly interface
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/soudharm-lende-24baaa221">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:soudharmrlende@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+🔗 **Project Links:**
+- Live Site: https://your-business-site.com  
+- GitHub Repo: https://github.com/yourusername/business-website  
 
 ---
 
-✨ *Thanks for stopping by my profile!*  
-💡 *Check out my pinned repositories for more cool projects.*  
+### 3️⃣ Landing Pages Collection
+- Designed high-converting landing pages
+- Focused on UI/UX and performance
+
+🔗 **Project Links:**
+- Live Pages: https://your-landing-pages.com  
+- GitHub Repo: https://github.com/yourusername/landing-pages  
+
+---
+
+## ⚙️ Features Implemented
+
+- Responsive Design (Mobile-Friendly)
+- SEO Optimization
+- Fast Loading Speed
+- Secure WordPress Setup
+- Contact Forms Integration
+- Plugin Customization
+
+---
+
+## 🛠️ Tools Used
+
+- WordPress
+- Elementor
+- Plugins (SEO, Security, Forms)
+- cPanel / Hosting
+
+---
+
+## 📸 Screenshots
+
+_Add screenshots here (use /images folder in repo)_
+
+---
+
+## 📬 Contact
+
+- Email: your-email@example.com  
+- LinkedIn: https://linkedin.com/in/yourprofile  
+- Portfolio: https://yourportfolio.com  
+
+---
+
+## ⭐ Conclusion
+
+This portfolio highlights my practical experience in WordPress development with a focus on clean UI, performance, and real-world client requirements.
+
+Feel free to explore my work and connect with me!

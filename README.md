@@ -36,12 +36,7 @@ I am a passionate WordPress Developer with hands-on experience in:
 - Designed pages for admissions, courses, and contact
 - Integrated inquiry forms
 - Mobile optimized design
-
-🔗 **Project Links:**
-- Live Site: https://your-school-website.com  
-- GitHub Repo: https://github.com/yourusername/school-website  
-- Admin Panel (if demo): https://your-school-website.com/wp-admin  
-
+ 
 ---
 
 ### 2️⃣ Business Website
